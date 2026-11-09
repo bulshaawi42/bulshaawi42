@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Front-end developer — digital systems</title>
+  <desc id="desc">A dark, minimal banner with lime and violet route lines representing thoughtful digital systems.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111510" />
+      <stop offset="0.58" stop-color="#1a201b" />
+      <stop offset="1" stop-color="#242433" />
+    </linearGradient>
+    <linearGradient id="route" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c9f36a" />
+      <stop offset="1" stop-color="#9bd6ce" />
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#f3f1e8" opacity="0.12" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#background)" />
+  <rect width="1200" height="340" rx="18" fill="url(#dots)" />
+  <path d="M660 0h540v340H744c83-57 80-113 20-152-54-35-43-95-104-188Z" fill="#c9f36a" opacity="0.035" />
+  <g fill="none" stroke-linecap="round">
+    <path d="M746 312c83-67 125-92 177-73 61 23 55-70 111-74 45-4 78 22 123-30" stroke="url(#route)" stroke-width="3" opacity="0.88" />
+    <path d="M774 340c37-58 62-96 113-112 73-23 65-91 126-119 39-18 78-7 145-41" stroke="#aaa6ff" stroke-width="2" opacity="0.55" />
+    <path d="M820 340c21-33 43-61 91-83 44-21 74-66 106-83" stroke="#f3f1e8" stroke-width="1" stroke-dasharray="4 9" opacity="0.3" />
+  </g>
+  <g fill="#111510" stroke="#c9f36a" stroke-width="3">
+    <circle cx="747" cy="311" r="8" />
+    <circle cx="1033" cy="165" r="8" />
+    <circle cx="1157" cy="135" r="8" />
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="95" fill="#c9f36a" font-size="15" letter-spacing="5">FRONT-END DEVELOPER  /  DIGITAL SYSTEMS</text>
+    <text x="72" y="174" fill="#f3f1e8" font-size="58" font-weight="700" letter-spacing="-2">Thoughtful ideas.</text>
+    <text x="72" y="242" fill="#f3f1e8" font-size="58" font-weight="700" letter-spacing="-2">Clear experiences.</text>
+    <text x="76" y="290" fill="#b7b9ad" font-size="17" letter-spacing="1.1">Designed for the way people move, live, and connect.</text>
+  </g>
+  <g fill="#c9f36a">
+    <circle cx="1100" cy="66" r="3" />
+    <circle cx="1134" cy="66" r="3" opacity="0.65" />
+    <circle cx="1168" cy="66" r="3" opacity="0.35" />
+  </g>
+</svg>
