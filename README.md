@@ -1,43 +1,54 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Front-end developer building thoughtful digital experiences" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Maxamed-Bulshaawi — front-end developer creating thoughtful digital experiences" width="100%" />
 </p>
 
-<h1 align="center">Front-end developer, building with intention</h1>
+<h1 align="center">Maxamed-Bulshaawi</h1>
+
+<p align="center">FRONT-END DEVELOPER &nbsp;·&nbsp; RESPONSIVE WEB &nbsp;·&nbsp; DIGITAL SYSTEMS</p>
 
 <p align="center">
-  Front-end developer&nbsp; · &nbsp;Responsive web experiences&nbsp; · &nbsp;Digital systems
+  <a href="https://bulshaawi42.github.io/portfolio/"><strong>VISIT MY PORTFOLIO ↗</strong></a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="mailto:maxamedyaxyeiid99@gmail.com"><strong>CONTACT ME ↗</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://bulshaawi42.github.io/my-profolio/">PORTFOLIO ↗</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:maxamedyaxyeiid99@gmail.com">EMAIL ME ↗</a>
-</p>
+<br />
 
----
+## Thoughtful design. Useful technology.
 
-### A little about me
+I’m a front-end developer focused on building clear, responsive experiences. I enjoy bringing a considered visual style to useful systems and making complex tasks feel simple.
 
-I’m a front-end developer who enjoys turning useful ideas into clear, responsive experiences. I care about thoughtful layouts, accessible interactions, and the small details that make software feel easy to use.
+## Areas I build for
 
-### Product areas I enjoy
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>01 &nbsp; Mobility</strong><br /><br />
+      Transportation and journey-planning experiences that help people move with confidence.
+    </td>
+    <td width="33%" valign="top">
+      <strong>02 &nbsp; Property</strong><br /><br />
+      Real estate browsing and property information, organized to make decisions easier.
+    </td>
+    <td width="33%" valign="top">
+      <strong>03 &nbsp; Everyday living</strong><br /><br />
+      Apartment and resident-service experiences that bring daily tasks into one place.
+    </td>
+  </tr>
+</table>
 
-| Mobility | Property | Everyday living |
-|:--|:--|:--|
-| Transportation and journey-planning experiences | Real estate browsing and property information | Apartment and resident-service experiences |
+<p align="center"><a href="https://bulshaawi42.github.io/portfolio/#systems">Explore the systems showcase ↗</a></p>
 
-These are the kinds of systems I’m interested in designing and building. See my portfolio for the current showcase.
-
-### Toolbelt
+## My toolkit
 
 `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `GitHub Pages`
 
-### Around GitHub
+## Find me
 
-I’m part of [SomDev-Team](https://github.com/SomDev-Team) and [PHP-Innovators](https://github.com/PHP-Innovators).
+- **Portfolio:** [bulshaawi42.github.io/portfolio](https://bulshaawi42.github.io/portfolio/)
+- **Email:** [maxamedyaxyeiid99@gmail.com](mailto:maxamedyaxyeiid99@gmail.com)
+- **GitHub communities:** [SomDev-Team](https://github.com/SomDev-Team) · [PHP-Innovators](https://github.com/PHP-Innovators)
 
----
+<br />
 
-<p align="center">
-  Have a project in mind? <a href="mailto:maxamedyaxyeiid99@gmail.com">Let’s talk</a>.
-</p>
+<p align="center"><sub>Designed with intention · Built for people</sub></p>
