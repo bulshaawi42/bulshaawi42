@@ -7,7 +7,7 @@
 <p align="center">FRONT-END DEVELOPER &nbsp;·&nbsp; RESPONSIVE WEB &nbsp;·&nbsp; DIGITAL SYSTEMS</p>
 
 <p align="center">
-  <a href="https://bulshaawi42.github.io/my-profolio/"><strong>VISIT MY PORTFOLIO ↗</strong></a>
+  <a href="https://bulshaawi42.github.io/portfolio/"><strong>VISIT MY PORTFOLIO ↗</strong></a>
   &nbsp;&nbsp; · &nbsp;&nbsp;
   <a href="mailto:maxamedyaxyeiid99@gmail.com"><strong>CONTACT ME ↗</strong></a>
 </p>
@@ -37,7 +37,7 @@ I’m a front-end developer focused on building clear, responsive experiences. I
   </tr>
 </table>
 
-<p align="center"><a href="https://bulshaawi42.github.io/my-profolio/#systems">Explore the systems showcase ↗</a></p>
+<p align="center"><a href="https://bulshaawi42.github.io/portfolio/#systems">Explore the systems showcase ↗</a></p>
 
 ## My toolkit
 
@@ -45,7 +45,7 @@ I’m a front-end developer focused on building clear, responsive experiences. I
 
 ## Find me
 
-- **Portfolio:** [bulshaawi42.github.io/portfolio](https://bulshaawi42.github.io/my-profolio/)
+- **Portfolio:** [bulshaawi42.github.io/portfolio](https://bulshaawi42.github.io/portfolio/)
 - **Email:** [maxamedyaxyeiid99@gmail.com](mailto:maxamedyaxyeiid99@gmail.com)
 - **GitHub communities:** [SomDev-Team](https://github.com/SomDev-Team) · [PHP-Innovators](https://github.com/PHP-Innovators)
 
